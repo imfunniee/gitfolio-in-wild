@@ -30,13 +30,13 @@ List of websites/articles/posts/video talking about gitfolio
 - https://tympanus.net/codrops/collective/collective-517/
 
 
-## get yours up there
+## Get yours up there
 
 - Fork this Repository
 - Add your portfolio in README
 - Create a PR 🙌
 
-## support your guy
+## Support your guy
 
 Keep me awake at night by Buying me a Coffee ☕
 
