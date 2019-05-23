@@ -1,10 +1,10 @@
-# gitfolio-in-wild
+# gitfolio-in-wild 🎉
 
-A list of portfolio that uses gitfolio 🎉
+A list of portfolio that uses gitfolio
 
 This past week have been a crazy experience for me, from being no one to getting on github's trending list 👀. I owe everything to you guys.
 
-These are the ones that i found, Add Yours by creating a PR 👏
+These are the ones that i found, Add yours by creating a PR.
 
 - https://imfunniee.github.io/gitfolio
 - https://c0d3n1nj4.github.io
@@ -32,11 +32,11 @@ List of websites/articles/posts/video talking about gitfolio
 
 # Get yours up there
 
-a. Fork this Repository
+- Fork this Repository
 
-b. Add your portfolio in Readme
+- Add your portfolio in README
+- Create a PR 🙌
 
-c. Create a PR 🙌
 
 # Support your Guy
 
