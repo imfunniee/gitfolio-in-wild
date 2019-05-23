@@ -23,6 +23,7 @@ These are the ones that i found, Add yours by creating a PR.
 - https://josephMichaelRyan.github.io
 - https://JDevx97.github.io
 - https://jungwoonlim.github.io
+- https://bentearzz.github.io
 
 List of websites/articles/posts/video talking about gitfolio
 
