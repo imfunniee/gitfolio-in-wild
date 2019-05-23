@@ -33,13 +33,5 @@ List of websites/articles/posts/video talking about gitfolio
 # Get yours up there
 
 - Fork this Repository
-
 - Add your portfolio in README
 - Create a PR 🙌
-
-
-# Support your Guy
-
-Keep me awake at nights by Buying me a Coffee ☕
-
-<a href="https://www.buymeacoffee.com/imfunniee" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;"></a>
