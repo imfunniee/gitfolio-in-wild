@@ -36,8 +36,8 @@ List of websites/articles/posts/video talking about gitfolio
 - Add your portfolio in README
 - Create a PR 🙌
 
-## Support your guy
+## Support
 
-Keep me awake at night by Buying me a Coffee ☕
+Loved My Work? Keep me awake at night by buying me a Coffee ☕
 
 <a href="https://www.buymeacoffee.com/imfunniee" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;"></a>
