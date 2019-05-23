@@ -38,7 +38,7 @@ b. Add your portfolio in Readme
 
 c. Create a PR 🙌
 
-### Support your Guy
+# Support your Guy
 
 Keep me awake at nights by Buying me a Coffee ☕
 
