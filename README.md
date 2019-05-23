@@ -2,7 +2,7 @@
 
 A list of portfolio that uses gitfolio 🎉
 
-This past week have been a crazy expiernce for me, from being no one to getting on github's trending list 👀. I owe everything to you guys.
+This past week have been a crazy experience for me, from being no one to getting on github's trending list 👀. I owe everything to you guys.
 
 These are the ones that i found, Add Yours by creating a PR 👏
 
