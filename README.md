@@ -4,7 +4,7 @@ A list of portfolios that uses gitfolio
 
 This past week have been a crazy experience for me, from being no one to getting on github's trending list 👀. I owe everything to you guys.
 
-These are the ones that i found, Add yours by creating a PR.
+Add yours by creating a PR.
 
 - https://imfunniee.github.io/gitfolio
 - https://c0d3n1nj4.github.io
