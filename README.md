@@ -25,6 +25,7 @@ Add yours by creating a PR.
 - https://jungwoonlim.github.io
 - https://bentearzz.github.io
 - https://matt-the-developer.github.io/
+- https://elainemattos.github.io/gitfolio/
 
 List of websites/articles/posts/video talking about gitfolio
 
