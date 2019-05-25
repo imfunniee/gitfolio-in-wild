@@ -1,6 +1,6 @@
 # gitfolio-in-wild 🎉
 
-A list of portfolios that uses gitfolio
+A list of portfolios that uses [gitfolio](https://github.com/imfunniee/gitfolio)
 
 This past week have been a crazy experience for me, from being no one to getting on github's trending list 👀. I owe everything to you guys.
 
