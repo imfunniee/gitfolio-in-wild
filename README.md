@@ -29,6 +29,7 @@ Add yours by creating a PR.
 - https://ankitchahar.github.io/
 - https://rohanmohapatra.github.io/
 - https://hadyandev.github.io
+- https://jerrylasama.github.io/
 
 List of websites/articles/posts/video talking about gitfolio
 
