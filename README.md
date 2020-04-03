@@ -31,6 +31,7 @@ Add yours by creating a PR.
 - https://hadyandev.github.io
 - https://jerrylasama.github.io/
 - https://k4ustu3h.cf/
+- https://spekulatius.github.io/
 
 List of websites/articles/posts/video talking about gitfolio
 
