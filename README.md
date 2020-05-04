@@ -5,7 +5,7 @@ A list of portfolios that uses [gitfolio](https://github.com/imfunniee/gitfolio)
 This past week have been a crazy experience for me, from being no one to getting on github's trending list 👀. I owe everything to you guys.
 
 Add yours by creating a PR.
-
+- https://grvkmrpandit.github.io
 - https://imfunniee.github.io/gitfolio
 - https://c0d3n1nj4.github.io
 - https://DEDaniel.github.io
