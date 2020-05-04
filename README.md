@@ -5,7 +5,7 @@ A list of portfolios that uses [gitfolio](https://github.com/imfunniee/gitfolio)
 This past week have been a crazy experience for me, from being no one to getting on github's trending list 👀. I owe everything to you guys.
 
 Add yours by creating a PR.
-- https://grvkmrpandit.github.io
+
 - https://imfunniee.github.io/gitfolio
 - https://c0d3n1nj4.github.io
 - https://DEDaniel.github.io
@@ -32,11 +32,21 @@ Add yours by creating a PR.
 - https://jerrylasama.github.io/
 - https://k4ustu3h.cf/
 - https://spekulatius.github.io/
+- https://grvkmrpandit.github.io
 
 List of websites/articles/posts/video talking about gitfolio
 
 - https://twitter.com/mgechev/status/1130258191047122944
-- https://tympanus.net/codrops/collective/collective-517/
+- https://tympanus.net/codrops/collective/collective-517
+- https://devrant.com/rants/2116895/gitfolio-generate-a-presentable-portfolio-website-out-of-your-github-repo-for-jo
+- https://steemit.com/steemhunt/@iqbaladan/gitfolio-personal-website-blog-for-every-github-user
+- https://www.youtube.com/watch?v=FjhRMBV8a2U
+- https://www.reddit.com/r/webdev/comments/dne6nc/showoff_saturday_gitfolio_gatsby_a_github
+- https://mentorcruise.com/blog/five-upcoming-javascript-libraries-contribute-2019
+- https://stackoverflow.com/questions/58511060/how-to-make-an-install-script-run-just-once-in-travis-ci
+- https://www.pinterest.co.uk/pin/312718767876208365
+- https://cloudforte.wordpress.com/2019/06/25/creating-my-portfolio-website-using-gitfolio
+-
 
 
 ## Get yours up there
