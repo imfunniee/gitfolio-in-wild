@@ -33,6 +33,7 @@ Add yours by creating a PR.
 - https://k4ustu3h.cf/
 - https://spekulatius.github.io/
 - https://grvkmrpandit.github.io
+- https://smrfeld.github.io using https://github.com/smrfeld/beyond-gitfolio
 
 List of websites/articles/posts/video talking about gitfolio
 
