@@ -34,6 +34,7 @@ Add yours by creating a PR.
 - https://spekulatius.github.io/
 - https://grvkmrpandit.github.io
 - https://smrfeld.github.io using https://github.com/smrfeld/beyond-gitfolio
+- https://jerit3787.github.io
 
 List of websites/articles/posts/video talking about gitfolio
 
@@ -47,8 +48,6 @@ List of websites/articles/posts/video talking about gitfolio
 - https://stackoverflow.com/questions/58511060/how-to-make-an-install-script-run-just-once-in-travis-ci
 - https://www.pinterest.co.uk/pin/312718767876208365
 - https://cloudforte.wordpress.com/2019/06/25/creating-my-portfolio-website-using-gitfolio
--
-
 
 ## Get yours up there
 
