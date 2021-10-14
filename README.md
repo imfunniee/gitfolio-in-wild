@@ -34,6 +34,7 @@ Add yours by creating a PR.
 - https://spekulatius.github.io/
 - https://grvkmrpandit.github.io
 - https://smrfeld.github.io using https://github.com/smrfeld/beyond-gitfolio
+- https://d1s.uno/
 
 List of websites/articles/posts/video talking about gitfolio
 
