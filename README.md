@@ -35,6 +35,7 @@ Add yours by creating a PR.
 - https://grvkmrpandit.github.io
 - https://smrfeld.github.io using https://github.com/smrfeld/beyond-gitfolio
 - https://angevalli.github.io/
+- https://fuchs.codes/
 
 List of websites/articles/posts/video talking about gitfolio
 
